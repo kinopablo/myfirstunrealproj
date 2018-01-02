@@ -28,28 +28,11 @@ There is three puzzles in our game and they are following similar principals (fi
 In the puzzle I created, invisible runes show you the way and reveal a code that will unlock your way to the gnome.  
 
 
-{let contents = ["Slide 3"].map {label = UILabel(frame: CGRect(x: 0, y: 0, width: 200, height: 100))
-  label.text = The Devil is in the details
+<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/a8bf8986fc7a4bb39a0d8972c3d632e5/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 
-  let position = Position(left: 0.3, top: 0.4)
-
-  return Content(view: label, position: position)
-}
-
-var slides = [SlideController]()
-
-for index in 0...2 {
-  let content = contents[index]
-  let controller = SlideController(contents: [content])
-  let animation = TransitionAnimation(
-    content: content,
-    destination: Position(left: 0.5, top: content.initialPosition.top),
-    duration: 4.0,
-    dumping: 0.8,
-    reflective: true)
-  controller.add(animations: [animation])
-
-  slides.append(controller)
-}
-
-presentationController.add(slides)
+<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+    <a href="https://sketchfab.com/models/a8bf8986fc7a4bb39a0d8972c3d632e5?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">LowPoly_BoomBox</a>
+    by <a href="https://sketchfab.com/kinopablo?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">kinopablo</a>
+    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+</p>
+</div>
