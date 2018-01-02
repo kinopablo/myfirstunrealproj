@@ -8,10 +8,7 @@ I lost about 50 comits, destroyed my .git folder, lost maps and assets. It has b
 About our project:
 The Devil Is In The Details
 
-<p align="center">
-  <img src="" width="350"/>
-
-</p>
+![Screen 1](https://github.com/randym/axlsx/raw/master/examples/sample.png)
 
 First person adventure puzzles game.
 
