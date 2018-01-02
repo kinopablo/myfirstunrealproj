@@ -28,11 +28,5 @@ There is three puzzles in our game and they are following similar principals (fi
 In the puzzle I created, invisible runes show you the way and reveal a code that will unlock your way to the gnome.  
 
 
-<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/a8bf8986fc7a4bb39a0d8972c3d632e5/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
-
-<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
-    <a href="https://sketchfab.com/models/a8bf8986fc7a4bb39a0d8972c3d632e5?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">LowPoly_BoomBox</a>
-    by <a href="https://sketchfab.com/kinopablo?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">kinopablo</a>
-    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
-</p>
-</div>
+[sketchfab]a8bf8986fc7a4bb39a0d8972c3d632e5[/sketchfab]
+[url=https://sketchfab.com/models/a8bf8986fc7a4bb39a0d8972c3d632e5]LowPoly_BoomBox[/url] by [url=https://sketchfab.com/kinopablo]kinopablo[/url] on [url=https://sketchfab.com]Sketchfab[/url]
