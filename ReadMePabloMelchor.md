@@ -28,7 +28,7 @@ There is three puzzles in our game and they are following similar principals (fi
 In the puzzle I created, invisible runes show you the way and reveal a code that will unlock your way to the gnome.  
 
 
-let contents = ["Slide 3"].map {label = UILabel(frame: CGRect(x: 0, y: 0, width: 200, height: 100))
+{let contents = ["Slide 3"].map {label = UILabel(frame: CGRect(x: 0, y: 0, width: 200, height: 100))
   label.text = The Devil is in the details
 
   let position = Position(left: 0.3, top: 0.4)
