@@ -10,9 +10,10 @@ The Devil Is In The Details
 
 ![Screen 1](https://github.com/randym/axlsx/raw/master/examples/sample.png)
 
-First person adventure puzzles game.
+First person adventure and puzzles game.
 
-Droped in the garden of a country manor you have to find the three lost gnomes while being chased by a demon. You are helped in this task by magical spectacles that reveal indications and clues. Wile you are wearing the specs, you can't see the monster chasing you. Luckely he is quite vocal and not very discret.
+Dropped in the garden of a country manor you have to find the three lost gnomes while being chased by a demon. You are helped in this task by magical spectacles that reveal indications and clues. While you are wearing the specs, you can't see the monster chasing you. Luckily he is quite vocal and not very discreet.
+
 
 
 -Workflow, process and organisation
@@ -25,5 +26,3 @@ There is three puzzles in our game and they are following similar principals (fi
 In the puzzle I created, invisible runes show you the way and reveal a code that will unlock your way to the gnome.  
 
 
-[sketchfab]a8bf8986fc7a4bb39a0d8972c3d632e5[/sketchfab]
-[url=https://sketchfab.com/models/a8bf8986fc7a4bb39a0d8972c3d632e5]LowPoly_BoomBox[/url] by [url=https://sketchfab.com/kinopablo]kinopablo[/url] on [url=https://sketchfab.com]Sketchfab[/url]
