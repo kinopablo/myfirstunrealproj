@@ -1,4 +1,5 @@
 # TheDevilIsInTheDetails
+![Screen 1](https://github.com/luarsu/BreakTheBuildFINAL/raw/master/BreakTheBuildFINAL/Content/startMenu/Deviltitle.jpg?raw=true)
 
 This repository was my testing ground for assests and fnctionality before I would implement them into our group repo.
 This repository is my first programing project (excluding a pong tutorial I made in unity and some flash I did 10years ago).
@@ -52,5 +53,5 @@ My part:
 -post processing effects and rendering looks (normal and magic)
 -design of additional props and plants.
 
-
+For the purpose of this
 
