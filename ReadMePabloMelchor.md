@@ -53,5 +53,58 @@ My part:
 -post processing effects and rendering looks (normal and magic)
 -design of additional props and plants.
 
-For the purpose of this
+
+![Screen 1](https://media.githubusercontent.com/media/kinopablo/myfirstunrealproj/before_bug_1/Content/ui/startMenuImage.jpg)
+
+
+
+![Screen 1](https://media.githubusercontent.com/media/kinopablo/myfirstunrealproj/before_bug_1/Content/ui/startMenuImage.jpg)
+
+
+
+
+![Screen 1](https://media.githubusercontent.com/media/kinopablo/myfirstunrealproj/before_bug_1/Content/ui/startMenuImage.jpg)
+
+
+
+![Screen 1](https://media.githubusercontent.com/media/kinopablo/myfirstunrealproj/before_bug_1/Content/ui/startMenuImage.jpg)
+
+
+
+![Screen 1](https://media.githubusercontent.com/media/kinopablo/myfirstunrealproj/before_bug_1/Content/ui/startMenuImage.jpg)
+
+
+
+![Screen 1](https://media.githubusercontent.com/media/kinopablo/myfirstunrealproj/before_bug_1/Content/ui/startMenuImage.jpg)
+
+
+
+![Screen 1](https://media.githubusercontent.com/media/kinopablo/myfirstunrealproj/before_bug_1/Content/ui/startMenuImage.jpg)
+
+
+
+![Screen 1](https://media.githubusercontent.com/media/kinopablo/myfirstunrealproj/before_bug_1/Content/ui/startMenuImage.jpg)
+
+
+
+![Screen 1](https://media.githubusercontent.com/media/kinopablo/myfirstunrealproj/before_bug_1/Content/ui/startMenuImage.jpg)
+
+
+
+![Screen 1](https://media.githubusercontent.com/media/kinopablo/myfirstunrealproj/before_bug_1/Content/ui/startMenuImage.jpg)
+
+
+
+![Screen 1](https://media.githubusercontent.com/media/kinopablo/myfirstunrealproj/before_bug_1/Content/ui/startMenuImage.jpg)
+
+
+
+![Screen 1](https://media.githubusercontent.com/media/kinopablo/myfirstunrealproj/before_bug_1/Content/ui/startMenuImage.jpg)
+
+
+
+![Screen 1](https://media.githubusercontent.com/media/kinopablo/myfirstunrealproj/before_bug_1/Content/ui/startMenuImage.jpg)
+
+
+
 
